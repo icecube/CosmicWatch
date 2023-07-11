@@ -1,0 +1,2 @@
+# CosmicWatch
+IceCube CosmicWatch deployment
